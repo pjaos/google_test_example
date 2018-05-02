@@ -16,6 +16,6 @@ An example of how to use the C google test framework
 
 * Build and run tests
 - cd c_google_test_example
-- sudo cmake CMakeLists.txt
+- cmake CMakeLists.txt
 - make
 - runTests
