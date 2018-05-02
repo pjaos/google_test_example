@@ -12,7 +12,7 @@ An example of how to use the C google test framework
 
 * Get the example code
 - cd  ~
-- git clone XXX
+- git clone git@github.com:pjacbnl/c_google_test_example.git
 
 * Build and run tests
 - cd ZYYY
