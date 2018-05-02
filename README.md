@@ -15,7 +15,7 @@ An example of how to use the C google test framework
 - git clone git@github.com:pjacbnl/c_google_test_example.git
 
 * Build and run tests
-- cd ZYYY
+- cd c_google_test_example
 - sudo cmake CMakeLists.txt
 - make
 - runTests
