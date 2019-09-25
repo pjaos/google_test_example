@@ -18,4 +18,4 @@ An example of how to use the C google test framework
 - cd c_google_test_example
 - cmake CMakeLists.txt
 - make
-- runTests
+- ./runTests
