@@ -1,4 +1,4 @@
-# google_test_example
+# C google test framework example
 An example of how to use the C google test framework
 
 ## Install on Ubuntu
